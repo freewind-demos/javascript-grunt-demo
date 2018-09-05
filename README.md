@@ -1,5 +1,5 @@
-JavaScript Backend Hello World Demo
-===================================
+JavaScript Grunt Demo
+=====================
 
 ```
 npm install
